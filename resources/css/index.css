@@ -1,0 +1,21 @@
+body{
+    background-image: url(../../images/cosmos-gbaf098e1a_1280.png);
+}
+
+.fondo-nav{
+    background-image: url(../../images/spaceman-g5a8a57b87_1280.png);
+    background-position: center;
+    background-size: auto;
+}
+.fondo-body{
+    background: white;
+}
+
+.img-nav{
+    height: 400px;
+}
+
+.tipo-letra{
+    color: white;
+    
+}
